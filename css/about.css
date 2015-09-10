@@ -1,0 +1,49 @@
+html,body{
+	height:100%;
+	width:100%;
+}
+.container{
+}
+.header{
+	height:100px;
+	background-color: #fff;
+}
+.menulinks{
+	text-align: center;
+}
+
+.jumbotron{
+	height: 200px;
+	padding-top: 40px;
+	background-image: url("../images/valley.jpg");
+	background-size: cover;
+	color: #ffffff;
+	padding-left: 40px;
+	padding-top: 100px;
+}
+
+.padded{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.gallery {
+	background-color: #E6E6E6;
+}
+
+.about {
+	height: auto;
+	background-color: #ffffff;
+	padding-top: 40px;
+	padding-left: 100px;
+	text-align: left;
+}
+
+.about p{
+	font-size: 20px;
+}
+
+.bottomMenu{
+	height:100px;
+	padding-top: 50px;
+}
